@@ -17,4 +17,5 @@ public partial class ZombieDTO
 
     public string ZombieType { get; set; }
 
+
 }
