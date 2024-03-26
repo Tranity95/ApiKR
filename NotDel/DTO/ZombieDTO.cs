@@ -14,6 +14,7 @@ public partial class ZombieDTO
     public int Health { get; set; }
 
     public int ZombieTypeId { get; set; }
+
     public string ZombieType { get; set; }
 
 }
